@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Government exam and job
+title: Government exams
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
-  Government exam and job 
+  Government exams 
 baseurl: "" 
-url: "http://govtexamandjob.justinechacko.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://govtexam.justinechacko.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
